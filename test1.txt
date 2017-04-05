@@ -1,8 +1,1 @@
- Volume in drive D is Everything
- Volume Serial Number is ACD0-9FA6
-
- Directory of D:\GIT EX1
-
-04/05/2017  12:40 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               0 Dir(s)  68,792,537,088 bytes free
+change 1
